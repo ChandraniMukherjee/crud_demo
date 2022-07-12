@@ -1,0 +1,40 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "mango",
+      "quantity": 10,
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "apple",
+      "quantity": 5,
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "guava",
+      "price": 400,
+      "quantity": 20
+    },
+    {
+      "id": 4,
+      "name": "grapes",
+      "price": 600,
+      "quantity": 40
+    },
+    {
+      "id": 5,
+      "name": "mango",
+      "price": 400,
+      "quantity": 50
+    },
+    {
+      "id": 6,
+      "name": "pineapple",
+      "price": 300,
+      "quantity": 40
+    }
+  ]
+}
